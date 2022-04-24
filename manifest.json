@@ -2,7 +2,7 @@
 	"name": "flash-dictionary",
 	"description": "simple flash cards and dictionary",
 	"version": "0.1",
-	"manifest_version": 3
+	"manifest_version": 3,
 	"background": {
 		"service_worker": "background.js"
 	},
